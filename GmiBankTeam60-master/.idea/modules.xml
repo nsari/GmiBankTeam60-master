@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GmiBankTeam60-master/GmiBankTeam60.iml" filepath="$PROJECT_DIR$/GmiBankTeam60-master/GmiBankTeam60.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GmiBankTeam60-master.iml" filepath="$PROJECT_DIR$/.idea/GmiBankTeam60-master.iml" />
+    </modules>
+  </component>
+</project>
